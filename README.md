@@ -1,6 +1,6 @@
 # chimera for op1r
 
-A talking / singing synth plugin for [op1r](https://github.com/Kunstbanause) on the OP-1: a physical-model vocal tract
+A talking / singing synth plugin for op1r on the OP-1: a physical-model vocal tract
 (Kelly-Lochbaum) with vowel shapes, a lyric that advances with each note, and a head-cutaway screen.
 
 ![screen](chimera_preview.png)
